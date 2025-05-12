@@ -1,5 +1,43 @@
+# Rider project files
+.idea/
+
+# Rider user-specific settings
+.idea/*
+
+# Visual Studio files
+.vs/
+.vscode/
+
+# Build output
 bin/
 obj/
-/packages/
-riderModule.iml
-/_ReSharper.Caches/
+
+# .NET Core files
+artifacts/
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# macOS system files
+.DS_Store
+
+# JetBrains Rider specific files
+.idea/.idea_workspace.xml
+.idea/.idea_modules.xml
+.idea/.idea/
+
+# Visual Studio Code settings (if using VSCode)
+.vscode/
+
+# Windows-specific files (Visual Studio related)
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ebugNet/
+[Dd]ebug-NetCore/
+
+# User-specific files
+.vsconfig
+
+# User-specific configurations
+.vscode/
