@@ -8,9 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44224c8a-52b9-4773-9089-a3caaa6c7616" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/blog/deploy-blazor.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/deploy-blazor.sh" afterDir="false" />
+    <list default="true" id="44224c8a-52b9-4773-9089-a3caaa6c7616" name="Changes" comment="Update Home page title and deployment scripts for Blazor WASM">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.blog/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.blog/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/Pages/Home.razor" beforeDir="false" afterPath="$PROJECT_DIR$/blog/Pages/Home.razor" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/bin/Debug/net9.0/blog.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Debug/net9.0/blog.dll" afterDir="false" />
@@ -19,28 +17,19 @@
       <change beforePath="$PROJECT_DIR$/blog/bin/Debug/net9.0/blog.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Debug/net9.0/blog.staticwebassets.runtime.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/bin/Debug/net9.0/wwwroot/_framework/blog.8bfhx5piu8.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/bin/Debug/net9.0/wwwroot/_framework/blog.8bfhx5piu8.pdb.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/bin/Debug/net9.0/wwwroot/_framework/blog.xr2nb4clat.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/bin/Debug/net9.0/wwwroot/_framework/blog.xr2nb4clat.wasm.gz" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/blog.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Release/net9.0/blog.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/blog.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Release/net9.0/blog.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/blog.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Release/net9.0/blog.staticwebassets.endpoints.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/blog.staticwebassets.runtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Release/net9.0/blog.staticwebassets.runtime.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/blog.staticwebassets.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/blog.staticwebassets.endpoints.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/wwwroot/.nojekyl" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/wwwroot/_framework/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/wwwroot/_framework/blazor.boot.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/wwwroot/_framework/blazor.boot.json.br" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/wwwroot/_framework/blazor.boot.json.br" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/wwwroot/_framework/blazor.boot.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/wwwroot/_framework/blazor.boot.json.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/wwwroot/_framework/blog.8w1ncg3j3l.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/wwwroot/_framework/blog.8w1ncg3j3l.wasm.br" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/wwwroot/_framework/blog.8w1ncg3j3l.wasm.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/wwwroot/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/wwwroot/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/wwwroot/index.html.br" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/wwwroot/index.html.br" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/wwwroot/index.html.gz" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Release/net9.0/publish/wwwroot/index.html.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/wwwroot/_framework/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Release/net9.0/wwwroot/_framework/blazor.boot.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/wwwroot/_framework/blazor.boot.json.gz" beforeDir="false" afterPath="$PROJECT_DIR$/blog/bin/Release/net9.0/wwwroot/_framework/blazor.boot.json.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/wwwroot/_framework/blog.sv11eoc2sg.wasm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/wwwroot/_framework/blog.sv11eoc2sg.wasm.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/wwwroot/_framework/blog.u8jhfnkrm3.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/bin/Release/net9.0/wwwroot/_framework/blog.u8jhfnkrm3.pdb.gz" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Debug/net9.0/blazor.boot.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/blog.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Debug/net9.0/blog.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/blog.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Debug/net9.0/blog.AssemblyInfoInputs.cache" afterDir="false" />
@@ -48,14 +37,14 @@
       <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/blog.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Debug/net9.0/blog.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/blog.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Debug/net9.0/blog.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/blog.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Debug/net9.0/blog.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/compressed/c3u1y9awy3-1213oainkz.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/compressed/pliy8bgozy-8bfhx5piu8.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/compressed/rgzr7u6q72-xr2nb4clat.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/compressed/gshb3150as-aya5fdev7u.gz" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/ref/blog.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Debug/net9.0/ref/blog.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/refint/blog.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Debug/net9.0/refint/blog.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/staticwebassets.build.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Debug/net9.0/staticwebassets.build.endpoints.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/staticwebassets.build.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Debug/net9.0/staticwebassets.build.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Debug/net9.0/staticwebassets.development.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/staticwebassets/msbuild.blog.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Debug/net9.0/staticwebassets/msbuild.blog.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/staticwebassets/msbuild.blog.Microsoft.AspNetCore.StaticWebAssets.props" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Debug/net9.0/staticwebassets/msbuild.blog.Microsoft.AspNetCore.StaticWebAssets.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/tmp-webcil/blog.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Debug/net9.0/tmp-webcil/blog.wasm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Debug/net9.0/webcil/blog.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Debug/net9.0/webcil/blog.wasm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/blazor.boot.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Release/net9.0/blazor.boot.json" afterDir="false" />
@@ -66,13 +55,7 @@
       <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/blog.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Release/net9.0/blog.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/blog.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Release/net9.0/blog.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/blog.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Release/net9.0/blog.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/compressed/c3u1y9awy3-eumbeen50z.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/compressed/pliy8bgozy-u8jhfnkrm3.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/compressed/publish/ksol2udq24-ctcc3npmb4.br" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/compressed/publish/ksol2udq24-ctcc3npmb4.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/compressed/publish/rlb4fxqgxn-8w1ncg3j3l.br" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/compressed/publish/rlb4fxqgxn-8w1ncg3j3l.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/compressed/rgzr7u6q72-sv11eoc2sg.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/compressed/gshb3150as-aya5fdev7u.gz" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/linked/blog.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Release/net9.0/linked/blog.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/linked/blog.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Release/net9.0/linked/blog.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/ref/blog.dll" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Release/net9.0/ref/blog.dll" afterDir="false" />
@@ -82,12 +65,13 @@
       <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/staticwebassets.development.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Release/net9.0/staticwebassets.development.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/staticwebassets.publish.endpoints.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Release/net9.0/staticwebassets.publish.endpoints.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/staticwebassets.publish.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Release/net9.0/staticwebassets.publish.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/staticwebassets/msbuild.blog.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Release/net9.0/staticwebassets/msbuild.blog.Microsoft.AspNetCore.StaticWebAssetEndpoints.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/staticwebassets/msbuild.blog.Microsoft.AspNetCore.StaticWebAssets.props" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Release/net9.0/staticwebassets/msbuild.blog.Microsoft.AspNetCore.StaticWebAssets.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/tmp-webcil/blog.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Release/net9.0/tmp-webcil/blog.wasm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/tmp-webcil/publish/blog.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Release/net9.0/tmp-webcil/publish/blog.wasm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/webcil/blog.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Release/net9.0/webcil/blog.wasm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/obj/Release/net9.0/webcil/publish/blog.wasm" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/Release/net9.0/webcil/publish/blog.wasm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/blog/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/wwwroot/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/blog/wwwroot/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -229,8 +213,17 @@
       <updated>1733570024059</updated>
       <workItem from="1733570025284" duration="153000" />
       <workItem from="1747088456254" duration="971000" />
-      <workItem from="1747143509923" duration="1429000" />
+      <workItem from="1747143509923" duration="2179000" />
     </task>
+    <task id="LOCAL-00001" summary="Update Home page title and deployment scripts">
+      <option name="closed" value="true" />
+      <created>1747145253707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747145253707</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -249,5 +242,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Update Home page title and deployment scripts for Blazor WASM" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Home page title and deployment scripts for Blazor WASM" />
   </component>
 </project>
