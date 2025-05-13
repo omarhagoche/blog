@@ -1025,10 +1025,10 @@
 /Users/omarhagoche/RiderProjects/blog/blog/obj/Release/net9.0/refint/blog.dll
 /Users/omarhagoche/RiderProjects/blog/blog/obj/Release/net9.0/blog.pdb
 /Users/omarhagoche/RiderProjects/blog/blog/obj/Release/net9.0/ref/blog.dll
-/Users/omarhagoche/RiderProjects/blog/blog/bin/Release/net9.0/wwwroot/_framework/blog.u8jhfnkrm3.pdb
-/Users/omarhagoche/RiderProjects/blog/blog/bin/Release/net9.0/wwwroot/_framework/blog.sv11eoc2sg.wasm
-/Users/omarhagoche/RiderProjects/blog/blog/bin/Release/net9.0/wwwroot/_framework/blog.u8jhfnkrm3.pdb.gz
-/Users/omarhagoche/RiderProjects/blog/blog/bin/Release/net9.0/wwwroot/_framework/blog.sv11eoc2sg.wasm.gz
-/Users/omarhagoche/RiderProjects/blog/blog/obj/Release/net9.0/compressed/rgzr7u6q72-sv11eoc2sg.gz
-/Users/omarhagoche/RiderProjects/blog/blog/obj/Release/net9.0/compressed/pliy8bgozy-u8jhfnkrm3.gz
-/Users/omarhagoche/RiderProjects/blog/blog/obj/Release/net9.0/compressed/c3u1y9awy3-eumbeen50z.gz
+/Users/omarhagoche/RiderProjects/blog/blog/bin/Release/net9.0/wwwroot/_framework/blog.ob6xykp0jp.pdb
+/Users/omarhagoche/RiderProjects/blog/blog/bin/Release/net9.0/wwwroot/_framework/blog.pcgqz362sz.wasm
+/Users/omarhagoche/RiderProjects/blog/blog/bin/Release/net9.0/wwwroot/_framework/blog.ob6xykp0jp.pdb.gz
+/Users/omarhagoche/RiderProjects/blog/blog/bin/Release/net9.0/wwwroot/_framework/blog.pcgqz362sz.wasm.gz
+/Users/omarhagoche/RiderProjects/blog/blog/obj/Release/net9.0/compressed/rgzr7u6q72-pcgqz362sz.gz
+/Users/omarhagoche/RiderProjects/blog/blog/obj/Release/net9.0/compressed/pliy8bgozy-ob6xykp0jp.gz
+/Users/omarhagoche/RiderProjects/blog/blog/obj/Release/net9.0/compressed/c3u1y9awy3-wqfximvnvh.gz
